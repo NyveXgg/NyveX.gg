@@ -1,0 +1,52 @@
+Jeder
+Befehl 	Beschreibung
+/clan top 	Listet die Rangliste aller Top-Clans auf
+/clan create <name> 	Erstellt einen neuen Clan mit dem angegebenen Namen
+/clan join <name> 	Beantragt den Beitritt zu einem Clan
+/clan accept 	Akzeptiert eine Clan-Einladung
+/clan deny 	Lehnt eine Clan-Einladung ab
+
+Clan-Mitglieder
+Befehl 	Beschreibung
+/clan home 	Teleportiert dich zum Clan-Heimatpunkt
+/clan online 	Zeigt alle online Clan-Mitglieder an
+/clan chest / /clan storage 	Öffnet die Clan-Truhe
+/clan getbanner 	Gibt dem Clan-Mitglied das Clan-Banner
+/clan deposit <Betrag> 	Legt Geld auf das Clan-Konto ein
+/clan info 	Zeigt Informationen über den Clan, in dem du bist
+/clan leave 	Verlässt deinen aktuellen Clan
+/clan balance 	Zeigt das Gesamtguthaben des Clans an
+/clan chat <Nachricht> / /cc <Nachricht> 	Sendet eine Nachricht an den privaten Clan-Chat
+
+Co-Leader des Clans
+Befehl 	Beschreibung
+/clan invite <Spieler> 	Lädt einen Spieler in deinen Clan ein
+/clan kick <Spieler> 	Entfernt einen Spieler aus deinem Clan
+/clan withdraw <Betrag> 	Hebt Geld vom Clan-Konto ab
+/clan raccept <Spieler> 	Akzeptiert die Beitrittsanfrage eines Spielers
+/clan rdeny <Spieler> 	Lehnt die Beitrittsanfrage eines Spielers ab
+/clan requests 	Zeigt ausstehende Beitrittsanfragen an
+/clan upgrade 	Erhöht die maximale Spieleranzahl des Clans
+
+Clan-Leiter
+Befehl 	Beschreibung
+/clan promote <Spieler> 	Ernennt ein Clan-Mitglied zum Co-Leader
+/clan demote <Spieler> 	Entzieht einem Clan-Mitglied die Co-Leader-Rolle
+/clan pvp 	Schaltet PvP zwischen Clan-Mitgliedern ein/aus
+/clan transfer <Spieler> 	Überträgt die Clan-Leitung auf einen anderen Spieler
+/clan togglejoin 	Schaltet ein, ob der Clan Beitrittsanfragen annimmt
+/clan sethome 	Setzt den Heimatpunkt des Clans
+/clan change <neues_Präfix> 	Ändert das Clan-Präfix (farbcodiert)
+/clan setbanner 	Setzt das Clan-Banner (muss gehalten werden)
+/clan upgradestorage 	Erhöht die Lagerplatz-Slots des Clans
+/clan war / /clan enemy 	Erklärt einen anderen Clan zum Feind
+/clan ally 	Erklärt einen anderen Clan zum Verbündeten
+/clan unenemy 	Entfernt den Feindstatus von einem Clan
+/clan unally 	Entfernt den Verbündetenstatus von einem Clan
+
+Server-Admins
+Befehl 	Beschreibung
+/clan reload 	Lädt die Plugin-Konfiguration neu
+/clan delete 	Löscht den Clan und alle zugehörigen Daten
+/clan updater 	Überprüft online auf Plugin-Updates
+/clan updateconf 	Aktualisiert die Konfiguration von einer älteren Version auf die neueste
