@@ -1,0 +1,32 @@
+Anvil
+Beschreibung: Öffnet einen Amboss.
+
+Cartography
+Beschreibung: Öffnet einen Kartentisch.
+Aliase: /cart, /carto
+
+Craft
+Beschreibung: Öffnet das Crafting-Menü.
+Aliase: /workbench, /wb, /bench
+
+Grindstone
+Beschreibung: Öffnet einen Schleifstein.
+Aliase: /grind
+
+Loom
+Beschreibung: Öffnet einen Webstuhl.
+
+Smithing
+Beschreibung: Öffnet einen Schmiedetisch.
+Aliase: /smith
+
+Stonecutter
+Beschreibung: Öffnet einen Steinschneider.
+
+Enderchest
+Beschreibung: Öffnet deine Endertruhe.
+Aliase: /ec, /ender, /end
+
+Trash
+Beschreibung: Öffnet ein Inventar, in dem alle Items beim Schließen gelöscht werden.
+Aliase: /disposal, /garbage, /lava
