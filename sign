@@ -1,0 +1,15 @@
+/sign help → zeigt dir eine Liste aller verfügbaren Befehle.
+/sign <text> → erstellt eine Signatur mit einem benutzerdefinierten Text, basierend auf dem STANDARD-Inhalt.
+/sign delete → entfernt eine vorhandene Signatur von einem Item.
+/sign lock → sperrt ein Item, sodass keine Signatur mit /sign oder /sign <text> hinzugefügt werden kann.
+/sign unlock → entsperrt ein Item und erlaubt wieder das Hinzufügen von Signaturen.
+/sign version → zeigt Versionsinformationen an.
+
+Beispiel:
+
+/sign <yellow>Dieses Item ist so <gold>awesome<yellow> und <gold>selten<yellow>,<br>dass jeder Spieler es besitzen möchte.
+
+/rename
+
+Mit dem Befehl /rename <text> kannst du den Anzeigenamen eines Items ändern.
+Dabei werden ebenfalls Farbformate und Platzhalter unterstützt!
