@@ -1,7 +1,5 @@
-# NyveX.gg
+NyveX.gg
 Guid/Dokumentation
-
-
 
 
 Dieses GitHub Repo wird dir dabei helfen die commands und denn server besser zu verstehen.
