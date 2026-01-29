@@ -1,0 +1,17 @@
+/tpa <Spieler>
+  - Sendet eine Teleport-Anfrage an den angegebenen Spieler.
+
+/tpaccept
+  - Akzeptiert die letzte eingehende TPA-Anfrage.
+
+/tpdeny
+  - Lehnt die letzte eingehende TPA-Anfrage ab.
+
+/tpacancel
+  - Bricht eine von dir gesendete TPA-Anfrage ab.
+
+/tpatoggle
+  - Schaltet ein oder aus, ob du TPA-Anfragen von anderen Spielern erhalten möchtest.
+
+/tpa version
+  - Zeigt die aktuelle Plugin-Version an.
