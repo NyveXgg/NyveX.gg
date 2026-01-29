@@ -1,0 +1,36 @@
+📖 **Auction House Plugin 1.4.1 – Spieler Commands**
+
+🔹 **/ah** oder **/auctionhouse**
+- Öffnet das **Auction House GUI**.
+- Funktionen im GUI:
+  - Items verkaufen
+  - Items ersteigern / kaufen
+  - Übersicht über aktive Auktionen
+- Hinweis: Texte und Währung können in `messages.yml` angepasst werden.
+
+🔹 **/ah sell <Preis>**
+- Startet eine Auktion für das Item im Cursor.
+- Beispiel: `/ah sell 500` → Auktion des Items für 500 Coins.
+- Tipp: Preis kann als Dezimalwert gesetzt werden, wenn Währung dies unterstützt.
+
+🔹 **/ah bid <Preis> <Auktions-ID>**
+- Gibt ein Gebot für eine bestehende Auktion ab.
+- Beispiel: `/ah bid 600 12` → Bietet 600 Coins auf Auktion #12.
+- Hinweis: Spieler müssen genügend Coins besitzen (Platzhalter `%coins%` zeigt den aktuellen Stand im GUI).
+
+🔹 **/ah info <Auktions-ID>**
+- Zeigt Details einer Auktion an:
+  - Verkäufer
+  - Aktuelles Gebot
+  - Ablaufzeit
+  - Itemdetails
+- Beispiel: `/ah info 12`
+
+🔹 **/ah cancel <Auktions-ID>**
+- Bricht **eigene Auktionen** vorzeitig ab und gibt das Item zurück.
+- Beispiel: `/ah cancel 12` → Auktion #12 wird abgebrochen.
+
+🔹 **Hinweise**
+- Alle Aktionen laufen über das GUI, Spieler müssen keine Admin-Rechte haben.
+- Die Anzeige von Coins oder Items kann über `messages.yml` angepasst werden.
+- Auktionen laufen automatisch ab, Items und Coins werden korrekt verteilt.
