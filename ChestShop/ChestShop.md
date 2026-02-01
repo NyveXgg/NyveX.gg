@@ -78,14 +78,6 @@ Spieler können als Mitarbeiter hinzugefügt oder entfernt werden:
 
 ---
 
-## Währung für den Shop festlegen
-
-
-/chestshop currency <währung>
-
-
----
-
 ## Gewinnverteilung anzeigen und verwalten
 
 
@@ -98,8 +90,3 @@ Spieler können als Mitarbeiter hinzugefügt oder entfernt werden:
 
 
 /chestshop info
-
-
----
-
-## Debug-Modus ein- oder ausschalten
